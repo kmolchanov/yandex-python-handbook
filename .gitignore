@@ -1,0 +1,5 @@
+# venv files
+.venv
+
+# phpstorm project files
+.idea
